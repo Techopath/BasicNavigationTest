@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8dc04e2-ae6a-4ea7-b19a-ed03097adebd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvMGEL81aqOjYfRIE0oQJgGuoA" />
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Vytrack">
+    <configuration name="EbaySearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LocatorsHomeWork.EbaySearchTest" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LocatorsHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LocatorsHomeWork.GoogleSearchResults" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LocatorsHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitedStates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.Covid2019.UnitedStates" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.Covid2019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vytrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHour.Vytrack" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VytrackShortCutFunctionality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LocatorsHomeWork.VytrackShortCutFunctionality" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LocatorsHomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Vytrack" />
+        <item itemvalue="Application.GoogleSearchResults" />
+        <item itemvalue="Application.UnitedStates" />
+        <item itemvalue="Application.EbaySearchTest" />
+        <item itemvalue="Application.VytrackShortCutFunctionality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8dc04e2-ae6a-4ea7-b19a-ed03097adebd" name="Default Changelist" comment="" />
+      <created>1583818517008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583818517008</updated>
+    </task>
+    <servers />
+  </component>
+</project>
